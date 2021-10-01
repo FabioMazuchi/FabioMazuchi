@@ -1,3 +1,3 @@
-### Oi, sou Fabio Mazuchi!
+## Oi! sou Fabio Mazuchi
 
-- 💻 Estudo desenvolvimento web
+### 💻 Estudo desenvolvimento web
