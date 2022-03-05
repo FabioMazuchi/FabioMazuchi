@@ -1,4 +1,7 @@
 ## Olá, meu nome é Fábio 🙋‍♂️
+
+Estudante de Desenvolvimento de Software Web apaixonado por tecnologia, concluí o curso Técnico em Mecatrônica no Colégio Castro Alves, local aonde tive meu primeiro contato com linguagem de programação, também concluí o curso de Tecnologia em Automação Industrial na Faculdade Anhanguera. Procuro me manter atualizado sobre novas tecnologias e praticar exercícios físicos.
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabio.augustomazuchi/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-augusto-mazuchi/)
 <div>
