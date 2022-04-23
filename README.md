@@ -1,11 +1,13 @@
 ## Olá, meu nome é Fábio 🙋‍♂️
 
-Estudante de Desenvolvimento de Software Web apaixonado por tecnologia, concluí o curso Técnico em Mecatrônica no Colégio Castro Alves, local aonde tive meu primeiro contato com linguagem de programação, também concluí o curso de Tecnologia em Automação Industrial na Faculdade Anhanguera. Procuro me manter atualizado sobre novas tecnologias e praticar exercícios físicos.
+Estudante de *Desenvolvimento de Software Web* apaixonado por **tecnologia**, concluí o curso *Técnico em Mecatrônica* no *Colégio Castro Alves*, local aonde tive meu primeiro contato com **algorimos** e **linguagem de programação C++**, também concluí o curso de *Tecnologia em Automação Industrial* na *Faculdade Anhanguera* aonde tive aulas de **linguagem de programação C++**.
+
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-augusto-mazuchi/)
+  
 <div>
-  <img height="150px"  src="https://github-readme-stats.vercel.app/api?username=FabioMazuchi&show_icons=true&theme=dark">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMazuchi&layout=compact&langs_count=4&theme=dark">
+  <img width="49%" height="100%" src="https://github-readme-stats.vercel.app/api?username=FabioMazuchi&show_icons=true&theme=dark">
+  <img width="49%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMazuchi&layout=compact&langs_count=4&theme=dark">
 </div>
 
 ## Linguagens de programação e tecnologias
