@@ -3,7 +3,7 @@
 
 <p>Sou apaixonado por tecnologia, concluí o curso Técnico em Mecatrônica no Colégio Castro Alves, local aonde tive meu primeiro contato com algoritmos e linguagem de programação C++, também concluí o curso de Tecnologia em Automação Industrial na Faculdade Anhanguera, aonde também tive aulas de linguagem de programação C++.</p>
 
-- 🌱 Atualmente estou aprendendo **desenvolvimento back-end**
+- 🌱 Atualmente estou aprendendo **desenvolvimento back-end** na Trybe
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://fabiomazuchi.github.io/](https://fabiomazuchi.github.io/)
 
