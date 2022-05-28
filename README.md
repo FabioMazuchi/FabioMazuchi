@@ -1,13 +1,13 @@
 <h1 align="center">Oi 👋, meu nome é Fábio</h1>
 <h3 align="center">Estudante de Desenvolvimento de Software Web</h3>
 
+<p>Sou apaixonado por tecnologia, concluí o curso Técnico em Mecatrônica no Colégio Castro Alves, local aonde tive meu primeiro contato com algoritmos e linguagem de programação C++, também concluí o curso de Tecnologia em Automação Industrial na Faculdade Anhanguera, aonde também tive aulas de linguagem de programação C++.</p>
+
 - 🌱 Atualmente estou aprendendo **desenvolvimento back-end**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://fabiomazuchi.github.io/](https://fabiomazuchi.github.io/)
 
 - 📫 Email **mazuchi.augusto@hotmail.com**
-<p>Estudante de Desenvolvimento de Software Web apaixonado por tecnologia, concluí o curso Técnico em Mecatrônica no Colégio Castro Alves, local aonde tive meu primeiro contato com algoritmos e linguagem de programação C++, também concluí o curso de Tecnologia em Automação Industrial na Faculdade Anhanguera, aonde também tive aulas de linguagem de programação C++.</p>
-
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
