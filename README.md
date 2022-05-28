@@ -8,6 +8,13 @@
 - 📫 Email **mazuchi.augusto@hotmail.com**
 <p>Estudante de Desenvolvimento de Software Web apaixonado por tecnologia, concluí o curso Técnico em Mecatrônica no Colégio Castro Alves, local aonde tive meu primeiro contato com algoritmos e linguagem de programação C++, também concluí o curso de Tecnologia em Automação Industrial na Faculdade Anhanguera, aonde também tive aulas de linguagem de programação C++.</p>
 
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/fabio-augusto-mazuchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabio-augusto-mazuchi" height="30" width="40" /></a>
+<a href="https://fb.com/fabio.augustomazuchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fabio.augustomazuchi" height="30" width="40" /></a>
+<a href="https://instagram.com/fabio.augustomazuchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fabio.augustomazuchi" height="30" width="40" /></a>
+</p>
   
 <div>
   <img width="49%" height="100%" src="https://github-readme-stats.vercel.app/api?username=FabioMazuchi&show_icons=true&theme=dark">
