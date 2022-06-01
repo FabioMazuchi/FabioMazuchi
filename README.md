@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, meu nome é Fábio</h1>
+<h1 align="center">👋 oi, meu nome é Fábio</h1>
 <h3 align="center">Estudante de Desenvolvimento de Software Web</h3>
 
 <p>Sou apaixonado por tecnologia, concluí o curso Técnico em Mecatrônica no Colégio Castro Alves, local aonde tive meu primeiro contato com algoritmos e linguagem de programação C++, também concluí o curso de Tecnologia em Automação Industrial na Faculdade Anhanguera, aonde também tive aulas de linguagem de programação C++.</p>
