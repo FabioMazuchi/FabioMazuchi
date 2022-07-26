@@ -1,6 +1,6 @@
 <h1 align="center">Olá, bem-vindo(a)</h1>
 
-<p>Meu nome é Fábio, sou apaixonado por tecnologia, concluí o curso Técnico em Mecatrônica no Colégio Castro Alves, local aonde tive meu primeiro contato com algoritmos e linguagem de programação C++, também concluí o curso de Tecnologia em Automação Industrial na Faculdade Anhanguera, aonde também tive aulas de linguagem de programação C++.</p>
+<p>Apaixonado por tecnologia, tive meu primeiro contato com linguagem C++ em um curso técnico, daí em diante não parei mais em pesquisar sobre o assunto e aprendi um pouco através de cursos on-line sobre HTML, CSS, JavaScript, Python, PHP, MySQL, MongoDB, Jest, React, Docker, Mocha, Node.js, Chai e Express.</p>
 
 - 🌱 Atualmente estou aprendendo **desenvolvimento back-end** na Trybe
 
