@@ -1,6 +1,6 @@
 <h1 align="center">Olá, bem-vindo(a)</h1>
 
-<p>Apaixonado por tecnologia, tive meu primeiro contato com linguagem C++ em um curso técnico, daí em diante não parei mais em pesquisar sobre o assunto e aprendi um pouco através de cursos on-line sobre HTML, CSS, JavaScript, Python, PHP, MySQL, MongoDB, Jest, React, Docker, Mocha, Node.js, Chai e Express.</p>
+<p>Apaixonado por tecnologia, tive meu primeiro contato com linguagem C++ em um curso técnico, daí em diante não parei mais em pesquisar sobre o assunto e aprendi um pouco através de cursos on-line sobre HTML, CSS, JavaScript, Python, PHP, MySQL, MongoDB, Jest, React, Docker, Mocha, Node.js, Chai, Express e TypesScript.</p>
 
 - 🌱 Atualmente estou aprendendo **desenvolvimento back-end** na Trybe
 
