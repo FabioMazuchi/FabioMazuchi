@@ -1,12 +1,6 @@
 <h1 align="center">Olá, bem-vindo(a)</h1>
 
-<p>Apaixonado por tecnologia, tive meu primeiro contato com linguagem C++ em um curso técnico, daí em diante não parei mais em pesquisar sobre o assunto e aprendi um pouco através de cursos on-line sobre HTML, CSS, JavaScript, Python, PHP, MySQL, MongoDB, Jest, React, Docker, Mocha, Node.js, Chai, Express e TypesScript.</p>
-
-- 🌱 Atualmente estou aprendendo **desenvolvimento back-end** na Trybe
-
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://fabiomazuchi.github.io/](https://fabiomazuchi.github.io/)
-
-- 📫 Email **mazuchi.augusto@hotmail.com**
+<p>Meu nome é Fábio, apaixonado por tecnologia desde a infância quando jogava vídeo-game, aos 14 anos tive meu primeiro contato com um computador em um curso de informática aonde conheci o S.O. windows 98 e o pacote office 98, com 19 anos de idade consegui um trabalho na função de estoquista aonde eu aplicava o que aprendi no curso de informática, utilizava o excel para fazer registros de entradas e saídas de insumos do estoque. Queria crescer profissionalmente mas não sabia ao certo qual carreira profissional queria trilhar, foi quando me lembrei da época de ensino médio quando um amigo comentou sobre a área de mecatrônica e resolvi me matricular em um curso técnico em mecatrônica aonde tive meu primeiro contato com linguagem de programação C++ e algoritmos, daí em diante não parei mais em pesquisar sobre o assunto.</p>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
