@@ -1,4 +1,4 @@
-<h1 align="center">Olá, bem-vindo(a)</h1>
+<h1 align="center">👋 Olá, bem-vindo(a)</h1>
 
 <p>Meu nome é Fábio, consumidor e fã de tecnologia desde a infância quando me divertia com os vídeo-games, aos 14 anos tive meu primeiro contato com um computador em um curso de informática aonde conheci o windows 98 e o pacote office 98, com 19 anos de idade consegui um trabalho na função de estoquista aonde utilizava o excel para fazer registros de entradas e saídas de insumos do estoque. Em 2010 decidi me matricular em um curso técnico em mecatrônica aonde tive meu primeiro contato com linguagem de programação C++, algoritmos e lógica de programação.</p>
 
