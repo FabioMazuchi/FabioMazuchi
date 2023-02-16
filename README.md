@@ -49,7 +49,7 @@
 <div>
 
 <div>
-  <img width="49%" height="100%" src="https://github-readme-stats.vercel.app/api?username=FabioMazuchi&show_icons=true&theme=dark">
-  <img width="49%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMazuchi&layout=compact&langs_count=4&theme=dark">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=FabioMazuchi&show_icons=true&theme=dark">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMazuchi&layout=compact&langs_count=4&theme=dark">
 </div>
 
