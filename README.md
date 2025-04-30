@@ -1,5 +1,7 @@
 <h1 align="center">👋 Olá, boas vindas!</h1>
 
+Sou um desenvolvedor de software web júnior com paixão por transformar ideias em soluções digitais funcionais e bem estruturadas. Tenho experiência com HTML, CSS, JavaScript e frameworks como React e Node.js, além de sólidos conhecimentos em Java para desenvolvimento backend. Também estou familiarizado com controle de versão usando Git, integração com APIs REST e manipulação de bancos de dados relacionais. Estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias, participando de projetos práticos e colaborativos. Busco oportunidades que me desafiem a evoluir profissionalmente e contribuir com código limpo e eficiente.
+
 
 <h3 align="left">Conecte-se comigo</h3>
 <p align="left">
