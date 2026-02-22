@@ -58,10 +58,4 @@
 <img src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red"/>
 <img src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon"/>
 <div>
-<br>
-
-<div>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=FabioMazuchi&show_icons=true&theme=dark">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMazuchi&layout=compact&langs_count=4&theme=dark">
-</div>
 
